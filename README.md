@@ -1,9 +1,5 @@
 # Denmark's Energy Consumption Forecasting
 
-Click the following options to see it in action:
-* [Web Application](http://34.93.41.229:8501/)
-* [Monitoring Web App](http://34.93.41.229:8502/)
-
 ![Green Energy](./assets/dk_energy_source.jpg)
 
 ---
