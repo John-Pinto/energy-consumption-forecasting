@@ -219,4 +219,4 @@ This project showcases the implementation of an MLOps workflow for electricity c
 ## Feedback
 Thanks for taking the time to read about my project. I appreciate any feedback.
 
-Linkedin profile: [John Pinto](www.linkedin.com/in/john--pinto)
+Linkedin profile: [John Pinto](https://www.linkedin.com/in/john--pinto/)
